@@ -21,7 +21,7 @@ The least important features found in the previous notebook are then reduced to 
 
  Further along, in [📒**notebook-4**](https://github.com/PragyanTiwari/Breast-Cancer-Prediction-with-DecisionTree-Classifier/blob/master/notebooks/04-hyperparameter-tuning.ipynb), hyperparameters are tuned and optimal parameters are then used for the prediction. **RESULT**: *Individual hyper-parameter training show better results than GridSearch CV.* 
 
-<img src=".readme-utils\report cli.png" width="850" height="360" alt="Model Performance">
+<img src=".readme-utils\report cli.png" width="1000" height="360" alt="Model Performance">
 
 
 
