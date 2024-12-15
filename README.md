@@ -1,5 +1,4 @@
 # Breast Cancer Prediction with DecisionTree
-=====
 <img src=".readme-utils\cancer prediction.png" width="750" height="360">
 
 ## 🔮 The Project aims to ...
