@@ -17,7 +17,7 @@ Built a basic DecisionTree with default parameters and trained on the training d
 
 The least important features found in the previous notebook are then reduced to 3 dimensions using Principal Component Analysis (**PCA**) in [📒**notebook-3**](https://github.com/PragyanTiwari/Breast-Cancer-Prediction-with-DecisionTree-Classifier/blob/master/notebooks/03-pca-feature-engineering.ipynb) . The top 3 principal components having the highest eigenvalues are chosen and their variance ratio explained by each vector is show below:
 
-<img src=".figures\principal_components.png" width="750" height="360" />
+<img src="figures\principal_components.png" width="750" height="360" />
 
 
 
