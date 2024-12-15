@@ -27,7 +27,7 @@ The least important features found in the previous notebook are then reduced to 
 To understand how the tuned model works and how it is making predictions, in [📒**notebook-5**](https://github.com/PragyanTiwari/Breast-Cancer-Prediction-with-DecisionTree-Classifier/blob/master/notebooks/05-tree-model-explainability_SHAP.ipynb), SHAP library is used for Model Interpretability. Global and 
 The SHAP library is used to achieve Model Interpretability, enabling both global and local analyses of the optimized model's behavior. The **Decision Plot** below illustrates how individual features contribute to the prediction process, providing a clear understanding of the model's decision-making logic.
 
-<img src="figures\shap_decision_plot.png" width="750" height="360" />
+<img src="figures\shap_decision_plot.png" width="750" height="500" />
 
 
 
