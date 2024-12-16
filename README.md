@@ -30,4 +30,16 @@ The SHAP library is used to achieve Model Interpretability, enabling both global
 <img src="figures\shap_decision_plot.png" width="700" height="500" />
 
 
+## 📝 Installation Guide (Building Predections)
+
+Using Makefile :
+
+        # to create virtual env 
+        make create_environment
+
+        # to clear cache data
+        make clean
+
+        # build predictions
+        make breast_cancer_prediction
 
