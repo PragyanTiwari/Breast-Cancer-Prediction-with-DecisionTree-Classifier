@@ -32,14 +32,30 @@ The SHAP library is used to achieve Model Interpretability, enabling both global
 
 ## 📝 Installation Guide (Building Predictions)
 
-Using Makefile :
+- Clone the repository
+```shell
+git clone https://github.com/PragyanTiwari/Breast-Cancer-Prediction-with-DecisionTree-Classifier.git
+```
 
-        # to create virtual env 
+- Using Makefile :
+
+```shell
+# to create virtual env
+make create_environment
+```
+
+```shell
+# to clear cache data
+make clean
+```
+```shell
+ # build predictions
+make breast_cancer_prediction
+```
+        
         make create_environment
         
-         # to clear cache data
-         make clean
+        # to clear cache data
+        make clean
 
-        # build predictions
-        make breast_cancer_prediction
-
+       
