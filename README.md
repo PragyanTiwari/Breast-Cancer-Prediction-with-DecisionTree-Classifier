@@ -8,7 +8,7 @@ This project focuses on training and fine-tuning a Decision Tree Classifier to p
  The dataset used for this project is the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic), containing features for the prediction of the class : **Malignant(+ve)** or **Benign(-ve)**.
 
 
-### ** More about the work :**
+### **More about the work :**
 ---
 
 A basic overview of breast cancer dataset is covered in [📒**notebook-1**](https://github.com/PragyanTiwari/Breast-Cancer-Prediction-with-DecisionTree-Classifier/blob/master/notebooks/01-data-overview-breast-cancer-classification.ipynb). Simple plots to show distribution of features. 
