@@ -53,6 +53,21 @@ make requirements
 make breast_cancer_prediction
 ```
 
+- **Using [uv](https://docs.astral.sh/uv/) (If not Makefile):**
+
+```shell
+# to create virtual env
+uv venv
+```
+
+```shell
+# install python dependencies
+uv add --requirements 'requirements.txt' --dev
+```
+```shell
+ # build predictions
+uv run make_predictions
+```
 <img src=".readme-utils\terminal.png" width="1200" height="300">
 
 ❕The output will be saved as `predictions.csv` in data\result dir.
