@@ -4,11 +4,10 @@ matplotlib
 seaborn
 scikit-learn
 plotly
-pickle
 flit_core
 typer
 loguru
-dotenv
+python-dotenv
 rich
 typer-cli
 typer-slim
