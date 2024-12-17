@@ -40,6 +40,11 @@ git clone https://github.com/PragyanTiwari/Breast-Cancer-Prediction-with-Decisio
 - **Using Makefile :**
 
 ```shell
+# install uv if not
+pip install --upgrade uv
+```
+
+```shell
 # to create virtual env
 make create_environment
 ```
