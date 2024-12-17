@@ -53,7 +53,7 @@ make requirements
 make breast_cancer_prediction
 ```
 
-<img src=".readme-utils\terminal.png" width="1000" height="200">
+<img src=".readme-utils\terminal.png" width="1200" height="200">
 
 ❕The output will be saved as `predictions.csv` in data\result dir.
 
