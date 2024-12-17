@@ -45,15 +45,19 @@ make create_environment
 ```
 
 ```shell
-# to clear cache data
-make clean
+# install python dependencies
+make requirements
 ```
 ```shell
  # build predictions
 make breast_cancer_prediction
 ```
 
-- **Using Poetry**
+<img src=".readme-utils\terminal.png" width="1000" height="200">
+
+❕The output will be saved as `predictions.csv` in data\result dir.
+
+
 
 
 

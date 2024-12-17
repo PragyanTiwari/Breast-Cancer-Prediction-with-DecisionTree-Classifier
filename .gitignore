@@ -175,3 +175,6 @@ cython_debug/
 trial.py
 trial2.py
 trial3.py
+
+# uv files
+uv.lock
