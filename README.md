@@ -5,6 +5,8 @@
 
 This project focuses on training and fine-tuning a Decision Tree Classifier to predict breast cancer outcomes as either positive or negative based on a diverse range of significant attributes.
 
+<img src=".readme-utils\infographic.png" width="700" height="600">
+
  The dataset used for this project is the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic), containing features for the prediction of the class : **Malignant(+ve)** or **Benign(-ve)**.
 
 
